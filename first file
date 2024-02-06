@@ -1,25 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-   
-    <p>
-      <h1>
-        <div style="background-color:white">
-          
-        <font text="align:center">
-          WEBSITE
-        </font>
-        </div>
-      </h1>
-      <marquee>
-        <h3>
-          Welcome to my website! Start by clicking the navigational buttons below to start your journey
-        </h3>
-      </marquee>
-    </p>
-  </head>
-  <body>
-    <style>
+<title> Jack Portfolio </title>
+  <style>
       body {
         background-color:#4287f5;
       }
@@ -76,6 +59,23 @@
         width:2000px;
       }
     </style> 
+</head>
+   <body>
+    <p>
+      <h1>
+        <div style="background-color:white">
+          
+        <font text="align:center">
+          WEBSITE
+        </font>
+        </div>
+      </h1>
+      <marquee>
+        <h3>
+          Welcome to my website! Start by clicking the navigational buttons below to start your journey
+        </h3>
+      </marquee>
+    </p>
     <div>
       
        <button>
@@ -93,9 +93,10 @@
         Resume</a>
       </button>
     </div>
-  </body>
+  
   <footer>
     
     Created By Jack Fruh In Intermdate Web Design<br>jfruh26@newburyportschools.com
   </footer>
+</body>
 </html>
